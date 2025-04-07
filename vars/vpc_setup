@@ -4,9 +4,9 @@ vpc_name: "Vprofile-vpc"
 vpcCidr: '172.20.0.0/16'
 
 #Subnet range
-PubSub1Cidr1: 172.20.1.0/24
-PubSub1Cidr2: 172.20.2.0/24
-PubSub1Cidr3: 172.20.3.0/24
+PubSub1Cidr: 172.20.1.0/24
+PubSub2Cidr: 172.20.2.0/24
+PubSub3Cidr: 172.20.3.0/24
 PrivSubCidr1: 172.20.4.0/24
 PrivSubCidr2: 172.20.5.0/24
 PrivSubCidr3: 172.20.6.0/24
