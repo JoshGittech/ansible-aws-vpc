@@ -1,3 +1,4 @@
 bastion_ami: ami-0f2668693d5cb0a93
 region: us-east-2
 MYIP: ip/32
+
